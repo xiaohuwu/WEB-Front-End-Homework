@@ -154,7 +154,7 @@ function addURL(url, name, value) {
     url += encodeURIComponent(name) + "=" + encodeURIComponent(value);
     return url;
 }
-//轮播图片
+//轮播图片与透明度变化
 
 
 
